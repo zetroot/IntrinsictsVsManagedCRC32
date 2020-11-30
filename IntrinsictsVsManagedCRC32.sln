@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntrinsictsVsManagedCRC32", "IntrinsictsVsManagedCRC32\IntrinsictsVsManagedCRC32.csproj", "{7EACF8A9-4D17-4CB1-B1D0-FBA6A7B11861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EACF8A9-4D17-4CB1-B1D0-FBA6A7B11861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EACF8A9-4D17-4CB1-B1D0-FBA6A7B11861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EACF8A9-4D17-4CB1-B1D0-FBA6A7B11861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EACF8A9-4D17-4CB1-B1D0-FBA6A7B11861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DE3922D-C2F1-4E89-A2A7-77C066FA5792}
+	EndGlobalSection
+EndGlobal
